@@ -1,4 +1,3 @@
 ### Hi there 👋
-
-- 🔭 I’m currently working on something (maybe?)
-- 🌱 I’m currently learning Rust
+- I'm a Java / Kotlin developer from Germany
+- Currently working on [@LabyHelp](https://github.com/LabyHelp)
