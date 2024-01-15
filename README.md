@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on something (maybe)<br>👯 I’m looking to collaborate on some other thing<br>🌱 I’m currently learning frontend dev with tailwind<br>⚡ Fun fact: Did you know the Earth is round?
+🔭 Might be working on something<br>🌱 I’m currently learning frontend w/ tailwind and vue<br>⚡ Fun fact: Did you know the Earth is round?
 
 
 # 💻 Tech Stack:
